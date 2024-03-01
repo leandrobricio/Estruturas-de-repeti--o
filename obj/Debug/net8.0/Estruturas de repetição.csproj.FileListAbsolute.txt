@@ -1,0 +1,14 @@
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\bin\Debug\net8.0\Estruturas de repetição.exe
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\bin\Debug\net8.0\Estruturas de repetição.deps.json
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\bin\Debug\net8.0\Estruturas de repetição.runtimeconfig.json
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\bin\Debug\net8.0\Estruturas de repetição.dll
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\bin\Debug\net8.0\Estruturas de repetição.pdb
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.AssemblyInfoInputs.cache
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.AssemblyInfo.cs
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.csproj.CoreCompileInputs.cache
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.dll
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\refint\Estruturas de repetição.dll
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.pdb
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\Estruturas de repetição.genruntimeconfig.cache
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\Estruturas de repetição\obj\Debug\net8.0\ref\Estruturas de repetição.dll
